@@ -87,3 +87,5 @@ src/app/page.tsx               conversation state machine (orchestrator)
 
 Document/context uploads, importable CSV mapping packs, and the optional
 server-side LLM enhancer are out of scope for Phase 1.
+
+Vercel: https://residency-group2-section91.vercel.app/
